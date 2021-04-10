@@ -1,13 +1,22 @@
-# Good Morning
+# Hello
 
-My name is Konrad and I'm a Functional Programming Enthusiast λ.
-
-Interested in: **#functional-programming**, **#haskell**, **#scala**, but also **#cybersecurity**, **#cryptography** and **#maths**.
-
-Keen on: **#aviation**.
-
-Based in [**Gdańsk**](https://www.google.com/maps/place/Gda%C5%84sk).
-
-Check out my webpage [**here**](https://unrooted.github.io/) and my Twitter [**here**](https://twitter.com/kunrooted).
-
-If you want something, you can contact me in: Polish, English, German or in basic Bokmål [**here**](mailto:konrad.root.klawikowski@gmail.com). I'll understand and get in touch with you as soon as I can.
+<p align="center">
+    <a href="mailto:konrad.root.klawikowski@gmail.com">
+        <img align="left" hspace=1 src="https://img.shields.io/badge/♔-Mail-11100f">
+    </a>
+    <a href="https://redcodelabs.io">
+        <img align="left" hspace=1 src="https://img.shields.io/badge/♕-Website-11100f">
+    </a>
+    <a href="https://www.linkedin.com/in/konrad-klawikowski-74a7391ba/">
+        <img align="left" hspace=1 src="https://img.shields.io/badge/♖-LinkedIn-11100f">
+    </a>
+    <a href="github.com/unrooted">
+        <img align="left" hspace=1 src="https://img.shields.io/badge/♗-GitHub-11100f">
+    </a>
+    <a href="https://twitter.com/redcode_labs">
+        <img align="left" hspace=1 src="https://img.shields.io/badge/♘-Twitter-11100f">
+    </a>
+    <a href="https://ctftime.org/team/128915">
+        <img align="left" hspace=1 src="https://img.shields.io/badge/♙-CTFTime-11100f">
+    </a>
+</p>
